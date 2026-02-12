@@ -1,3 +1,3 @@
-test("sample test: Jest is working", () => {
+test("sample test: CI runs on every push", () => {
   expect(1 + 1).toBe(2);
 });
